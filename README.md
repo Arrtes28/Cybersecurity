@@ -5,10 +5,10 @@ Kategori    : Cyrptography
 
 *TOOLS UMUM*
 1. Pengujian WSL melalui command line interface.
-![Uji WSL] (image/ujiWSL.jpeg)
+![Uji WSL](image/ujiWSL.jpeg)
 
 2. Pengujian Python
-![Uji Python] (image/ujiPython.jpeg)
+![Uji Python](image/ujiPython.jpeg)
 
 *PENGERJAAN CHALLANGE*
 
