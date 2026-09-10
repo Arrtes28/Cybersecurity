@@ -1,7 +1,7 @@
-Nama	    : Ngurah Acaryanandha Putra
-NIM         : 260530911134
-Divisi	    : Cybersecurity
-Kategori    : Cyrptography
+Nama	    : Ngurah Acaryanandha Putra <br>
+NIM         : 260530911134 <br>
+Divisi	    : Cybersecurity <br>
+Kategori    : Cyrptography <br>
 
 *TOOLS UMUM*
 1. Pengujian WSL melalui command line interface.
