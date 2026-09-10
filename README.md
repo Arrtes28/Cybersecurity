@@ -12,24 +12,24 @@ Kategori    : Cyrptography <br>
 
 *PENGERJAAN CHALLANGE*
 
-a. challange wajib
+a. challange wajib<br>
 Step 1 
 Saya menjalankan challange UNDO di Cylab lalu diberikan flag beserta hint dan disuruh untuk memasukkan perintah linux untuk membalikkan flag tersebut, sehingga saya memasukkan perintah base64 -d. Perintah tersebut berfungsi untuk menddekode flag yang sebelumnya disandikan menjadi plain text
 ![Step1](image/step1.jpeg)
 
-Step 2
+Step 2<br>
 Diberikan flag dengan hint Reversed the text, jadi flag ini disembunyikan dengan membalikkan urutan hurufnya sehingga perintah yang dipakai adalah rev atau singkatan dari reverse yang berfungsi untuk membalikkan lagi urutan hurufnya
 ![Step2](image/step2.jpeg)
 
-Step 3
+Step 3<br>
 Diberikan flag dengan hint replace underscore with dashes, jadi flag ini dapat diselesaikan dengan mengganti dashes atau tanda hubung menjadi underscore, hal itu dapat dilakukan dengan perintah tr atau translate '-' '_' sehingga setiap dashes atau tanda hubung yg ada pada flag digantikan menjadi underscore seperti semula.
 ![step3](image/step2.jpeg)
 
-Step 4
+Step 4<br>
 Mirip seperti step 3 tapi yang diganti adalah parantheses () menjadi curly braces {} dengan perintah yang sama juga yaitu tr atau translate '()' '{}' sehingga parantheses yang ada di flag digantikan oleh curly braces.
 ![step4](image/step4.jpeg)
 
-Step 5
+Step 5<br>
 Diberikan flag dengan hint apllied ROT13 to letters, Jujur disini saya searching terkait ROT13 (bukan AI harusnya). Jadi ROT13 itu sandi klasik yang menggeser setiap huruf sebanyak 13 posisi di alfabet seperti bahasa panda, perintah yang dapat dimasukkan yaitu tr atau translate 'n-za-mN-ZA-M' 'a-zA-Z', maksud dari 'n-za-mN-ZA-M' adalah empat rentang abjad yang digabung jadi 1 n-z, a-m, N-Z dan A-M lalu 'a-zA-Z' juga sama artinya adalah rentang abjad yang normal. Jadi perintah ini bekerja dengan cara jika komputer menemukan huruf n maka akan diganti menjadi a cara kerjaini akan terus mengulang sampai selesai. Sehingga menghasilkan flag yang sebenarnya.
 ![step5](image/step4.jpeg)
 
