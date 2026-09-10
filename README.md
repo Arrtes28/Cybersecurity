@@ -3,14 +3,14 @@ NIM         : 260530911134
 Divisi	    : Cybersecurity
 Kategori    : Cyrptography
 
-##TOOLS UMUM
+*TOOLS UMUM*
 1. Pengujian WSL melalui command line interface.
 ![Uji WSL] (image/ujiWSL.jpeg)
 
 2. Pengujian Python
 ![Uji Python] (image/ujiPython.jpeg)
 
-##PENGERJAAN CHALLANGE
+*PENGERJAAN CHALLANGE*
 a. challange wajib
 Step 1 
 Saya menjalankan challange UNDO di Cylab lalu diberikan flag beserta hint dan disuruh untuk memasukkan perintah linux untuk membalikkan flag tersebut, sehingga saya memasukkan perintah base64 -d. Perintah tersebut berfungsi untuk menddekode flag yang sebelumnya disandikan menjadi plain text
@@ -30,12 +30,13 @@ Mirip seperti step 3 tapi yang diganti adalah parantheses () menjadi curly brace
 
 Step 5
 Diberikan flag dengan hint apllied ROT13 to letters, Jujur disini saya searching terkait ROT13 (bukan AI harusnya). Jadi ROT13 itu sandi klasik yang menggeser setiap huruf sebanyak 13 posisi di alfabet seperti bahasa panda, perintah yang dapat dimasukkan yaitu tr atau translate 'n-za-mN-ZA-M' 'a-zA-Z', maksud dari 'n-za-mN-ZA-M' adalah empat rentang abjad yang digabung jadi 1 n-z, a-m, N-Z dan A-M lalu 'a-zA-Z' juga sama artinya adalah rentang abjad yang normal. Jadi perintah ini bekerja dengan cara jika komputer menemukan huruf n maka akan diganti menjadi a cara kerjaini akan terus mengulang sampai selesai. Sehingga menghasilkan flag yang sebenarnya.
+![step5](image/step4.jpeg)
 
 Hasil pada web
 Flag tersebu dapat dimasukkan ke web dan selesai
 ![cylab](image/cylab.jpeg)
 
-#Dokumentasi Kategori Cyrptography
+*Dokumentasi Kategori Cyrptography*
 1. Membuat Python Virtual Environment (venv), menginstal library pycryptodome dan menjalankan kode yang telah diberikan
 ![venv](image/venv.jpeg)
 2. Outputnya
@@ -49,7 +50,7 @@ dan outputnya adalah :
 outnya adalah PICOCTFTHENUMBERSMASON namun kalau di perhatikan pada foto angkanya terdapat kurung kurawa setelah 7 angka jadi setelah 7 huruf saya tambahkan juga kurung kurawa buka dan kurung kurawa tutup pada akhir sehingga susai dengan foto angka pada soal dan berhasil. Berikut foto web cylab:
 ![web](image/web.jpeg)
 
-#Referensi
+*Referensi*
 Cylab Security Academy
 Linux Manual Page
 ASCII-code.com
