@@ -46,11 +46,14 @@ pada challange ini diberikan foto yang berisikan angka angka, awalnya saya ga ng
 ![kode](image/kode.png)
 dan outputnya adalah :
 ![output](image/output.jpeg)
-outnya adalah PICOCTFTHENUMBERSMASON namun kalau di perhatikan pada foto angkanya terdapat kurung kurawa setelah 7 angka jadi setelah 7 huruf saya tambahkan juga kurung kurawa buka dan kurung kurawa tutup pada akhir sehingga susai dengan foto angka pada soal dan berhasil. Berikut foto web cylab:
+outputnya adalah PICOCTFTHENUMBERSMASON namun kalau di perhatikan pada foto angkanya terdapat kurung kurawa setelah 7 angka jadi setelah 7 huruf saya tambahkan juga kurung kurawa buka dan kurung kurawa tutup pada akhir sehingga susai dengan foto angka pada soal dan berhasil. Berikut foto web cylab:
 ![web](image/web.jpeg)
 
 *Referensi*
 Cylab Security Academy
+
 Linux Manual Page
+
 ASCII-code.com
+
 A1Z26 cipher - wikipedia
