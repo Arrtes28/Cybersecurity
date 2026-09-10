@@ -11,6 +11,7 @@ Kategori    : Cyrptography
 ![Uji Python] (image/ujiPython.jpeg)
 
 *PENGERJAAN CHALLANGE*
+
 a. challange wajib
 Step 1 
 Saya menjalankan challange UNDO di Cylab lalu diberikan flag beserta hint dan disuruh untuk memasukkan perintah linux untuk membalikkan flag tersebut, sehingga saya memasukkan perintah base64 -d. Perintah tersebut berfungsi untuk menddekode flag yang sebelumnya disandikan menjadi plain text
@@ -50,6 +51,7 @@ outputnya adalah PICOCTFTHENUMBERSMASON namun kalau di perhatikan pada foto angk
 ![web](image/web.jpeg)
 
 *Referensi*
+
 Cylab Security Academy
 
 Linux Manual Page
