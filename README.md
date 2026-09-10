@@ -32,8 +32,7 @@ Step 5
 Diberikan flag dengan hint apllied ROT13 to letters, Jujur disini saya searching terkait ROT13 (bukan AI harusnya). Jadi ROT13 itu sandi klasik yang menggeser setiap huruf sebanyak 13 posisi di alfabet seperti bahasa panda, perintah yang dapat dimasukkan yaitu tr atau translate 'n-za-mN-ZA-M' 'a-zA-Z', maksud dari 'n-za-mN-ZA-M' adalah empat rentang abjad yang digabung jadi 1 n-z, a-m, N-Z dan A-M lalu 'a-zA-Z' juga sama artinya adalah rentang abjad yang normal. Jadi perintah ini bekerja dengan cara jika komputer menemukan huruf n maka akan diganti menjadi a cara kerjaini akan terus mengulang sampai selesai. Sehingga menghasilkan flag yang sebenarnya.
 ![step5](image/step4.jpeg)
 
-Hasil pada web
-Flag tersebu dapat dimasukkan ke web dan selesai
+Flag tersebut dapat dimasukkan ke web dan selesai
 ![cylab](image/cylab.jpeg)
 
 *Dokumentasi Kategori Cyrptography*
